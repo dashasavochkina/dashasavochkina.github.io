@@ -9,7 +9,7 @@
 * Создание личной страницы.
 * Размещение кода исходной страницы в репозитории.
 * Размещение странички на хостинге.
-* [Веб-страничка с описанием лабораторных работ доступна по ссылке](https://Allyxan.github.io/tanki-otchet/).
+* [Веб-страничка с описанием лабораторных работ доступна по ссылке](https://dashasavochkina.github.io/tanki-otchet/).
 
 ## ✅ Лабораторная работа 2
 
@@ -73,14 +73,14 @@
 * W, A, S, D - перемещение
 * Танк и снаряды можно перемещать мышкой
 
-[Work-in-progress, beta version of the game!](https://Allyxan.github.io/landing/)
+[Work-in-progress, beta version of the game!](https://dashasavochkina.github.io/landing/)
 
 ## ✅ Лабораторная работа 3
 
 Работа с Cisco Packet Tracer
 
-* [Отчет](https://github.com/Allyxan/Allyxan.github.io/raw/main/%D0%98%D0%A2_%D0%9A%D0%BE%D1%81%D0%B8%D0%BB%D0%BE%D0%B2%20_%D0%9B%D0%A03.docx)
-* [Сценарий](https://github.com/Allyxan/Allyxan.github.io/raw/main/%D0%98%D0%A2_%D0%9B%D0%A03_%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B9.pka)
+* [Отчет](https://github.com/dashasavochkina/dashasavochkina.github.io/raw/main/%D0%98%D0%A2_%D0%9A%D0%BE%D1%81%D0%B8%D0%BB%D0%BE%D0%B2%20_%D0%9B%D0%A03.docx)
+* [Сценарий](https://github.com/dashasavochkina/dashasavochkina.github.io/raw/main/%D0%98%D0%A2_%D0%9B%D0%A03_%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B9.pka)
 
 ## ✅ Экзаменационный билет №4
 
