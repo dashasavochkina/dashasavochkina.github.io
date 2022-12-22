@@ -85,3 +85,5 @@
 ## ✅ Экзаменационный билет №1
 
 Ответ на экзаменационный билет доступен по ссылке: [Билет №1](https://github.com/stankin/inet-2022/wiki/exam01)
+
+Ссылка на diff доступна по ссылке: [diff](https://github.com/stankin/inet-2022/wiki/exam01/_compare/f36c95bfa462644a15741e85c4435f176ba7204a...bba7da934038ab1eb28c960419081259bfdb75d8)
